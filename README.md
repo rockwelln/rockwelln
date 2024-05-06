@@ -9,7 +9,7 @@ Below are my primary technical skills:
 - **Databases**: Postgresql, Oracle, MongoDB
 - Git, Docker, CI/CD (on Drone and Github), Unix-like scripting, Documentation (Hugo, Sphinx, Dinosaurus)
 
-Here are some of the things that I want to learn (or learn further) in 2023:
+Here are some of the things that I want to learn (or learn further) in 2024:
 
 - 🤔 Rust
 - 🌱 Svelte
